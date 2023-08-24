@@ -1,1 +1,1 @@
-This is the file1 text updated for race condition
+This is the file1 text updated for race condition between 2 developers
